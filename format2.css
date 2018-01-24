@@ -1,0 +1,12 @@
+body { background-color: #ffff99; 
+       color: #008000; 
+       font-family: "Times New Roman", serif; }
+h1   { background-color: #ffffff;
+       color: #008000; 
+       font-family: Arial, sans-serif; }
+.feature { background-color: #CCCCCC; }
+footer   { font-size: .75em; }
+#wrapper { margin-left: auto;
+           margin-right: auto;
+		   width: 80%; }
+
